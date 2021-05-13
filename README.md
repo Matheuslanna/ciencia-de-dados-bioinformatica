@@ -1,4 +1,6 @@
-![Drug Discovery Image](https://ak.picdn.net/shutterstock/videos/13204946/thumb/1.jpg)
+<p align="center">
+  <img width="852" height="480" src="https://ak.picdn.net/shutterstock/videos/13204946/thumb/1.jpg)">
+</p>
 
 # Projeto Final da Terceira Imersão Dados da Alura
 ---
